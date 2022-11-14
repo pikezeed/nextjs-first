@@ -4,7 +4,8 @@ export default function index() {
   return (
     <>
       <h1 classname="title">
-        Read <Link href="/posts/first-post">this page!</Link>
+        Read
+        <Link href="/posts/first-post">this page!</Link>
       </h1>
     </>
   );
