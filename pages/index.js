@@ -16,10 +16,6 @@ export default function index() {
           <a href="https://next.js/learn">our Next.js tutorial</a>.)
         </p>
       </section>
-      <h1 classname="title">
-        Read
-        <Link href="/posts/first-post">this page!</Link>
-      </h1>
     </Layout>
   );
 }
